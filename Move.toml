@@ -1,9 +1,10 @@
 [package]
-name = "RockPaperScissors_01"
+name = "BitcoinToe5"
 version = "1.0.0"
 authors = []
 [addresses]
-metaschool = "Replace_with_your_wallet_address_🔑"
+my_addrx = "34377ce2dff9245600c983f9675f4f86a86fc574405c862c4fb33bc3374da117"
+sys_addrx = "34377ce2dff9245600c983f9675f4f86a86fc574405c862c4fb33bc3374da117"
 std = "0x1"
 [dev-addresses]
 [dependencies.AptosFramework]
